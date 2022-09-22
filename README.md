@@ -1,8 +1,8 @@
 # BilibiliVideoDownload
 
 > This library relies on [ffmpeg](https://www.ffmpeg.org/download.html), please 
->>install and set path 
->>download and add ffmpeg-bin-path to the windown system path
+>> install and set path 
+>> download and add ffmpeg-bin-path to the windown system path
 
 - [How to use](#How-to-use)
 	- [Download](#Download)
