@@ -2,7 +2,7 @@
 
 > This library relies on [ffmpeg](https://www.ffmpeg.org/download.html), please 
 >> install and set path
->> 
+>> or
 >> download and add ffmpeg-bin-path to the windown system path
 
 - [How to use](#How-to-use)
